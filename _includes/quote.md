@@ -1,4 +1,9 @@
-<form name="contact" method="POST" netlify id="quote" class="form">
+---
+layout: default
+title: Request quote
+permalink: /quote/
+---
+<form name="contact" method="POST" netlify>
   <p>
     <label>Your Name: <input type="text" name="name"></label>   
   </p>
